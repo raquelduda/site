@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background-color: #353130;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    /* height: 100vh; */
+box-sizing: border-box;
+}
+.cabeçalho{
+    padding: 5% 0% 0% 15%;
+}
+.cabeçalho_menu{
+    display: flex;
+    gap: 80px;
+}
+.cabeçalho_menu_link{
+    font-family: "montserrat";
+    font-weight: 600;
+    font-size: 24px;
+    color:rgb(249, 165, 197);
+    text-decoration: none;
+}
+
+.entrada{
+    margin: 10% 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+.conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+}
+.logo{
+    width: 500px;
+    padding: 50px;
+}
+img {
+    width: 10%;
+}
+.strong{
+    color: rgb(249, 165, 197);
+}
+.titulo {
+    color: rgb(249, 165, 197);
+  font-size: 40px;
+}
+.title{
+    font-size: 30px;
+}
+.title2{
+    font-size: 20px;
+}
+.paragrafo{
+    font-size: 17px;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+.botao{
+    border-radius: 15px;
+    width: 280px;
+    margin: 2%;
+    background-color: rgb(249, 165, 197);
+    display: flex;
+text-align: center;
+justify-content: center;
+padding: 21.5px 0;
+
+display: flex;
+justify-content: center;
+gap: 10px;
+
+font-size: 20px;
+font-family: "Montserrat", sans-serif;
+font-weight: 700;
+text-decoration: none;
+color: white;
+}
+.botao:hover {
+background-color: rgb(114, 53, 77);
+}
+.rodape{
+    color: white;
+    background-color: rgb(114, 53, 77);
+    padding: 24px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px;
+}
+
+
+.paragrafo_sobremim{
+    font-family: "montserrat";
+    font-size: 15px;
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+   padding: 24px;
+}
+.foto_raquel{
+width: 500px;
+padding: 50px;
+}
+.destaque_paragrafo{
+ color: rgb(249, 165, 197);
+}
