@@ -113,7 +113,7 @@ padding: 50px;
 .destaque_paragrafo{
  color: rgb(249, 165, 197);
 }
-@media (max-width:1200px) {
+/* @media (max-width:1200px) {
     .cabeçalho{
         padding: 10%;
     }
@@ -128,5 +128,5 @@ padding: 50px;
     margin: 0%;
 }
 .conteudo{
-    width: auto;
-}
+    width:auto;
+} */
